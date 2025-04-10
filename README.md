@@ -55,5 +55,9 @@ wallpaper && theme
 swww //for wallpaper
 pywal //relly cool color scheme generator
 ```
+screenshot
+```
+grim
+```
 
 </details>
