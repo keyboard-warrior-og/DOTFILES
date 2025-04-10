@@ -6,6 +6,7 @@ hey, there these are my configuration files i use for my hyprland & arch-linux s
 <details>
 <summary>the list of software I use.</summary>
 
+making this just in case my system breaks(it breaks everyday or it just doesn't for months so i keep forgetting things '_'(im just dumb) ).
   
 for building
 ```txt
