@@ -25,6 +25,11 @@ microcode for cpu
 amd-ucode //for amd processors only
 intel-ucode //if you have a intel processor for other processors just pray to god i guess
 ```
+boot-loader
+```
+grub
+efibootmgr
+```
 netowork && bluetooth
 ```
 networkmanager //use nmtui for gui interface
@@ -78,6 +83,10 @@ development software //my favorate part :D
 ```
 visualstudio-code //AUR i know the code exists but i am biased
 android-studio //AUR no choice here 
+```
+fonts
+```
+ttf-jetbrains-mono-nerd //nerd fonts are awesome
 ```
 languages
 ```
