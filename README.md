@@ -3,9 +3,8 @@
 hey, there these are my configuration files i use for my hyprland & arch-linux setup.
 
 ## SOFTWARE 
-
-<summary>the list of software I use </summary>
-```txt
+the list of software I use 
+```
 #for building
 base
 base-devel
