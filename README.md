@@ -6,18 +6,54 @@ hey, there these are my configuration files i use for my hyprland & arch-linux s
 <details>
 <summary>the list of software I use.</summary>
 
-making this just in case my system breaks(it breaks everyday or it just doesn't for months so i keep forgetting things '_'(im just dumb) ).
+making this just in case my system breaks(it breaks everyday or it just doesn't for months so i keep forgetting things 😵‍💫(im just dumb) ).
   
 for building
 ```txt
 base
-base-devel
+base-devel //you might not need this
 ```
 linux
 ```
 linux
-linux-lts
+linux-lts //just to be on the safer side
 linux-firmware
 sof-firmware 
 ```
+microcode for cpu 
+```
+amd-ucode //for amd processors only
+intel-ucode //if you have a intel processor for other processors just pray to god i guess
+```
+netowork && bluetooth
+```
+networkmanager //use nmtui for gui interface
+bluez
+bluez-utils
+```
+audio && spotify
+```
+pipewire
+pipewire-pulse
+wireplumber
+spotify-launcher //install and run to install spotify 
+```
+video && window manager
+```
+hyprland
+vlc
+```
+terminal && and addons
+```
+zsh //shell
+kitty //emulator
+oh-my-zsh // plugins manager
+starship //prompt editor
+```
+wallpaper && theme
+```
+swww //for wallpaper
+pywal //relly cool color palate generator
+```
+
 </details>
