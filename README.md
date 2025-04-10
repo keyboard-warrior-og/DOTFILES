@@ -15,5 +15,4 @@ linux
 linux-lts //extra security :)
 linux-firmware
 sof-firmware //still don't know why arch doesn't include this in firmware
-
 ```
