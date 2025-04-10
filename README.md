@@ -2,9 +2,9 @@
 
 hey, there these are my configuration files i use for my hyprland & arch-linux setup.
 
-# SOFTWARE 
+## SOFTWARE 
 
-the list of software I use :
+<summary>the list of software I use </summary>
 ...
 #for building
 base
