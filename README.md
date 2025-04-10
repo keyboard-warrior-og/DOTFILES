@@ -53,11 +53,16 @@ starship //prompt editor
 wallpaper && theme
 ```
 swww //for wallpaper
-pywal //relly cool color scheme generator
+pywal //relly cool color scheme generator its package name is "python-pywal" thank me later
 ```
 screenshot
 ```
 grim
+```
+power savings
+```
+tlp
+powertop //optional because it causes my bluetooth to shutter TT
 ```
 
 </details>
