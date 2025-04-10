@@ -9,10 +9,10 @@ hey, there these are my configuration files i use for my hyprland & arch-linux s
 ```txt
 #for building
 base
-base-devel //need it most of the time
+base-devel
 #linux
 linux
-linux-lts //extra security :)
+linux-lts
 linux-firmware
-sof-firmware //still don't know why arch doesn't include this in firmware
+sof-firmware 
 ```
