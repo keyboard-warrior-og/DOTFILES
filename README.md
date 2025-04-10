@@ -53,7 +53,7 @@ starship //prompt editor
 wallpaper && theme
 ```
 swww //for wallpaper
-pywal //relly cool color palate generator
+pywal //relly cool color scheme generator
 ```
 
 </details>
