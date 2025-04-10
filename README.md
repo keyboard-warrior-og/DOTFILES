@@ -2,15 +2,19 @@
 
 hey, there these are my configuration files i use for my hyprland & arch-linux setup.
 
-## SOFTWARE 
-the list of software I use 
+## NOTES
+<details>
+<summary>the list of software I use.</summary>
+for building
 ```
-#for building
 base
 base-devel
-#linux
+```
+linux
+```
 linux
 linux-lts
 linux-firmware
 sof-firmware 
 ```
+</details>
