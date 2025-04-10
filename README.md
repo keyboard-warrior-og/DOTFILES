@@ -5,6 +5,8 @@ hey, there these are my configuration files i use for my hyprland & arch-linux s
 ## NOTES
 <details>
 <summary>the list of software I use.</summary>
+
+  
 for building
 ```txt
 base
