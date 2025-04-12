@@ -72,7 +72,7 @@ powertop //optional because it causes my bluetooth to shutter TT
 ```
 text editor
 ```
-vim
+neovim
 nano //vim cannot copy to system buffer *why god why!!* and iam sceptical about neovim
 ```
 version control
