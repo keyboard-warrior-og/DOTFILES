@@ -82,7 +82,9 @@ git //the GOAT
 development software //my favorate part :D
 ```
 visualstudio-code //AUR i know the code exists but i am biased
-android-studio //AUR no choice here 
+android-studio //AUR no choice here
+inkscape // i know how to use it alright 😂
+freecad //i also know how to use this i am not joking 😂
 ```
 fonts
 ```
