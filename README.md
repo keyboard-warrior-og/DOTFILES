@@ -94,5 +94,11 @@ python // comes with it no need to install that
 c/c++ // it runs on GCC bruh
 java // use "pacman -S jdk-openjdk" it was hell to install java withought it
 ```
+screensharing
+```
+xdg-desktop-portal-hyprland-git //AUR use yay
+slurp //xdg dependency also grim
+//edit hyprland config "exec-once=dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP"
+```
 
 </details>
