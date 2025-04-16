@@ -7,7 +7,7 @@ hey, there these are my configuration files i use for my hyprland & arch-linux s
 <summary>the list of software I use.</summary>
 
 making this just in case my system breaks(it breaks everyday or it just doesn't for months so i keep forgetting things 😵‍💫(im just dumb) ).
-  
+
 for building
 ```txt
 base
@@ -59,6 +59,8 @@ wallpaper && theme
 swww //for wallpaper
 pywal //relly cool color scheme generator its package name is "python-pywal" thank me later
 pywalfox //AUR cool software to update pywal schemes in firefox and thunderbird
+waybar
+wofi
 ```
 screenshot
 ```
@@ -68,10 +70,12 @@ power savings
 ```
 tlp
 powertop //optional because it causes my bluetooth to shutter TT
+brightnessctl
 ```
 text editor
 ```
 neovim
+nano
 ```
 version control
 ```
@@ -100,6 +104,9 @@ xdg-desktop-portal-hyprland-git //AUR use yay
 slurp //xdg dependency also grim
 //edit hyprland config "exec-once=dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP"
 ```
-
+just copy it
+```
+base base-devel linux-firmware sof-firmware linux slurp jdk-openjdk ttf-jetbrains-mono-nerd freecad inkscape git neovim nano brightnessctl tlp grim waybar wofi python-pywal swww starship kitty zsh vlc hyprland pipewire pipewire-pulse wireplumber bluez bluez-utils networkmanager efibootmgr grub amd-ucode 
+```
 
 </details>
