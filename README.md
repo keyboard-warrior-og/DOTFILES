@@ -41,12 +41,11 @@ audio && spotify
 pipewire
 pipewire-pulse
 wireplumber
-spotify-launcher //install and run to install spotify 
 ```
 video && window manager
 ```
 hyprland
-vlc
+vlc //also used for songs
 ```
 terminal && and addons
 ```
@@ -73,7 +72,6 @@ powertop //optional because it causes my bluetooth to shutter TT
 text editor
 ```
 neovim
-nano //vim cannot copy to system buffer *why god why!!* and iam sceptical about neovim
 ```
 version control
 ```
@@ -102,5 +100,6 @@ xdg-desktop-portal-hyprland-git //AUR use yay
 slurp //xdg dependency also grim
 //edit hyprland config "exec-once=dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP"
 ```
+
 
 </details>
