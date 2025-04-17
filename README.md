@@ -70,6 +70,10 @@ power savings
 ```
 tlp
 powertop //optional because it causes my bluetooth to shutter TT
+```
+utilities
+```
+htop
 brightnessctl
 ```
 text editor
@@ -106,7 +110,7 @@ slurp //xdg dependency also grim
 ```
 just copy it
 ```
-base base-devel linux-firmware sof-firmware linux slurp jdk-openjdk ttf-jetbrains-mono-nerd freecad inkscape git neovim nano brightnessctl tlp grim waybar wofi python-pywal swww starship kitty zsh vlc hyprland pipewire pipewire-pulse wireplumber bluez bluez-utils networkmanager efibootmgr grub amd-ucode 
+base base-devel linux-firmware sof-firmware linux slurp jdk-openjdk ttf-jetbrains-mono-nerd freecad inkscape git neovim nano brightnessctl tlp grim waybar wofi python-pywal swww starship kitty zsh vlc hyprland pipewire pipewire-pulse wireplumber bluez bluez-utils networkmanager efibootmgr grub amd-ucode htop
 ```
 
 </details>
