@@ -35,7 +35,6 @@ netowork && bluetooth
 networkmanager //use nmtui for gui interface
 bluez
 bluez-utils
-blueman
 ```
 audio && spotify
 ```
@@ -110,7 +109,7 @@ slurp //xdg dependency also grim
 ```
 just copy it
 ```
-base base-devel linux-firmware sof-firmware linux slurp jdk-openjdk ttf-jetbrains-mono-nerd freecad inkscape git vim brightnessctl tlp grim waybar wofi python-pywal swww starship kitty zsh vlc hyprland pipewire pipewire-pulse wireplumber bluez bluez-utils networkmanager efibootmgr grub amd-ucode htop blueman
+base base-devel linux-firmware sof-firmware linux slurp jdk-openjdk ttf-jetbrains-mono-nerd freecad inkscape git vim brightnessctl tlp grim waybar wofi python-pywal swww starship kitty zsh vlc hyprland pipewire pipewire-pulse wireplumber bluez bluez-utils networkmanager efibootmgr grub amd-ucode htop
 ```
 
 </details>
