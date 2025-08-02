@@ -6,7 +6,7 @@
 #: individual font faces and even specify special fonts for particular
 #: characters.
 
-# font_family      monospace
+font_family      family="JetBrainsMono Nerd Font"
 # bold_font        auto
 # italic_font      auto
 # bold_italic_font auto
@@ -288,7 +288,7 @@
 #: so if you want to override it, place your value after the lines
 #: where the theme file is included.
 
-# cursor_shape block
+ cursor_shape underline
 
 #: The cursor shape can be one of block, beam, underline. Note that
 #: when reloading the config this will be changed only if the cursor
@@ -1771,7 +1771,7 @@
 #: special value of ask means that kitty will ask before opening the
 #: link when clicked.
 
-# shell_integration enabled
+ shell_integration no-cursor
 
 #: Enable shell integration on supported shells. This enables features
 #: such as jumping to previous prompts, browsing the output of the
@@ -2786,3 +2786,5 @@
 #: }}}
 
 #: }}}
+
+include ~/.cache/wal/colors-kitty.conf

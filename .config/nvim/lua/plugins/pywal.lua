@@ -1,4 +1,4 @@
 return {
 	"AlphaTechnolog/pywal.nvim",
-	opts = {}
+	opts = {},
 }

@@ -6,5 +6,6 @@ return {
 		require('mini.pairs').setup()
 		require('mini.animate').setup()
 		require('mini.tabline').setup()
+    require('mini.surround').setup()
 	end,
 }
